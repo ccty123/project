@@ -23,14 +23,14 @@ install:
 # Run qmake
 before_build:
   - cd %APPVEYOR_BUILD_FOLDER%
-  - cd NumericalCalulator
-  - qmake NumericalCalulator.pro
+  - cd game
+  - qmake game.pro
 
 
 # Build the projects
 build_script:
   - cd %APPVEYOR_BUILD_FOLDER%
-  - cd NumericalCalulator
+  - cd game
   - '%make%'
   
   
@@ -38,9 +38,9 @@ after_build:
   - cd %APPVEYOR_BUILD_FOLDER%\NumericalCalulator\release
   - mkdir release
   - cd release
-  - xcopy %APPVEYOR_BUILD_FOLDER%\NumericalCalulator\release\NumericalCalulator.exe %APPVEYOR_BUILD_FOLDER%\NumericalCalulator\release\release\
-  - windeployqt NumericalCalulator.exe
+  - xcopy %APPVEYOR_BUILD_FOLDER%\game\release\game.exe %APPVEYOR_BUILD_FOLDER%\game\release\release\
+  - windeployqt game.exe
   
 
 artifacts:
-  - path: NumericalCalulator\release\release
+  - path: game\release\release

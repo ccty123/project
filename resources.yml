@@ -35,7 +35,7 @@ build_script:
   
   
 after_build:
-  - cd %APPVEYOR_BUILD_FOLDER%\NumericalCalulator\release
+  - cd %APPVEYOR_BUILD_FOLDER%\game\release
   - mkdir release
   - cd release
   - xcopy %APPVEYOR_BUILD_FOLDER%\game\release\game.exe %APPVEYOR_BUILD_FOLDER%\game\release\release\

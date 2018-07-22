@@ -35,10 +35,10 @@ build_script:
   
   
 after_build:
-  - cd %APPVEYOR_BUILD_FOLDER%\game\release
+  - cd %APPVEYOR_BUILD_FOLDER%\game
   - mkdir release
   - cd release
-  - xcopy %APPVEYOR_BUILD_FOLDER%\game\release\game.exe %APPVEYOR_BUILD_FOLDER%\game\release\release\
+  - xcopy %APPVEYOR_BUILD_FOLDER%\game\game.exe %APPVEYOR_BUILD_FOLDER%\game\release\release\
   - windeployqt game.exe
   
 

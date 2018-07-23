@@ -1,0 +1,7156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GameBoundary1</class>
+ <widget class="QMainWindow" name="GameBoundary1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>950</width>
+    <height>650</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_11">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_12">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_13">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_14">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_16">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_17">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_18">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_19">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_20">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_21">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_22">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_23">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_24">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_25">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_26">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_27">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_28">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_29">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_30">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_31">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_32">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_33">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_34">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_35">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_36">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_37">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_38">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_39">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_40">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_41">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_42">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_43">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_44">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_45">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_46">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_47">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_48">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_49">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_50">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_51">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_52">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_53">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_54">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_55">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_56">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_57">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_58">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_59">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_60">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_61">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_62">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_63">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_64">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_65">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_66">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/4-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_67">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_68">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_69">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_70">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_71">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_72">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_73">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_74">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_75">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_76">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_77">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_78">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_79">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_80">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_81">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_82">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_83">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_84">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_85">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_86">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_87">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_88">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_89">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_90">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_91">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_92">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_93">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_94">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_95">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_96">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_97">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_98">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/reddia.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_99">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_100">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_101">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_102">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_103">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_104">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_105">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_106">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_107">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_108">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_109">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_110">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_111">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_112">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/4-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_113">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_114">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/3-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_115">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_116">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_117">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_118">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_119">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_120">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/bluedia.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_121">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_122">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_123">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_124">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_125">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/7-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_126">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_127">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_128">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_129">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_130">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_131">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_132">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_133">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_134">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_135">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_136">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_137">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_138">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_139">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_140">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellodoor.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_141">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_142">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_143">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_144">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_145">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_146">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_147">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_148">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_149">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_150">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_151">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_152">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_153">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_154">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_155">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/bluekey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_156">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/12-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_157">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/5-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_158">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_159">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_160">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_161">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_162">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_163">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_164">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_165">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_166">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_167">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_168">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/1-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_169">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_170">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_171">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_172">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_173">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_174">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_175">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_176">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_177">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_178">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_179">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_180">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_181">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_182">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_183">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_184">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_185">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_186">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_187">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/downstair.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_188">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/bluekey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_189">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_190">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_191">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redwater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_193">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_194">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redkey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_195">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_196">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_197">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/reddoor.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_198">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_199">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_200">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_201">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_202">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_203">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_204">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_205">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_206">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_207">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_208">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_209">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_210">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_211">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_212">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_213">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_214">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/5-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_215">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_216">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_217">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_218">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_219">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_220">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_221">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_222">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_223">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/10-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_224">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_225">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_226">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/bluewater.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_227">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_228">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_232">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_236">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_238">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_239">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_240">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_244">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_245">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_246">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_247">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_248">
+    <property name="geometry">
+     <rect>
+      <x>900</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_249">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_251">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_255">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_256">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_258">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_260">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_261">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_262">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/back3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_265">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>600</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_back.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_267">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_268">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_269">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_271">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_272">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_273">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_274">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_275">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_276">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_279">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellodoor.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_282">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_283">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_284">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_285">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_286">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_287">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_288">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_289">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_290">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_291">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_292">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_293">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_294">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_295">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_296">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_297">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_298">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_299">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_300">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_277">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_278">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_280">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_281">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_301">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/1-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_302">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/2-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_303">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/monster/1-1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_305">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_306">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/upstair.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_307">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_308">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_309">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_310">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_311">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_312">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_313">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_314">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_315">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_316">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_317">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_318">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_319">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_320">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_321">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellodoor.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_322">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_323">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_324">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_325">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_326">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_327">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_328">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_329">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_330">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_331">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellodoor.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_332">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_333">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_334">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellodoor.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_335">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_wall.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="character">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/DOWNcharacter.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_229">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_230">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_231">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_233">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_234">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_235">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_237">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_241">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_242">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_243">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_250">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_252">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_253">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_254">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_257">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_259">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_263">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_264">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_266">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_270">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_336">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_337">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_338">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_339">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_340">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_341">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_342">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_343">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_344">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_345">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_346">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_347">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_348">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_349">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_350">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_351">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_352">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_353">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_354">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_355">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_356">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_357">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_358">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_359">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_360">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_361">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_362">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_363">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_39">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_29">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_28">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_43">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_13">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_48">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_20">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_46">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_15">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_25">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_41">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_37">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_14">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_27">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>200</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_33">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_45">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_44">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_49">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_35">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_26">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_51">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_52">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>450</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_38">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_30">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_22">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_23">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_42">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>400</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_34">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_47">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_50">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>500</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_24">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>150</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_21">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_36">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_40">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>350</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_16">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_17">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_32">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_31">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>300</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_19">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>100</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="road_18">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>250</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/new_road.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_304">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>130</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;生命：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_364">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>50</y>
+      <width>51</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;级&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="textFormat">
+     <enum>Qt::AutoText</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="background1_133">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>50</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/DOWNcharacter.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_365">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>170</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;攻击：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_366">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>210</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;防御：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_367">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>290</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;经验：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_368">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>340</y>
+      <width>51</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/yellokey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_369">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>250</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;金币：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_370">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>480</y>
+      <width>61</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/redkey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_371">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>410</y>
+      <width>54</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/bluekey.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="level1">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>50</y>
+      <width>54</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="life1">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>121</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="attack1">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>170</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="defense1">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>210</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="money1">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>250</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="exp1">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>290</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bluekey1">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>420</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="redkey1">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>490</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="yellowkey1">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>330</y>
+      <width>51</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_192">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>550</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="resources.qrc">:/new/resources/素材/tool1.png</pixmap>
+    </property>
+   </widget>
+   <zorder>label_162</zorder>
+   <zorder>road_44</zorder>
+   <zorder>label_135</zorder>
+   <zorder>label_30</zorder>
+   <zorder>label_20</zorder>
+   <zorder>label_24</zorder>
+   <zorder>label_64</zorder>
+   <zorder>label_78</zorder>
+   <zorder>label_363</zorder>
+   <zorder>label_227</zorder>
+   <zorder>label_362</zorder>
+   <zorder>label_361</zorder>
+   <zorder>label_360</zorder>
+   <zorder>label_359</zorder>
+   <zorder>label_358</zorder>
+   <zorder>label_357</zorder>
+   <zorder>label_356</zorder>
+   <zorder>label_355</zorder>
+   <zorder>label_354</zorder>
+   <zorder>label_353</zorder>
+   <zorder>label_352</zorder>
+   <zorder>label_351</zorder>
+   <zorder>label_350</zorder>
+   <zorder>label_349</zorder>
+   <zorder>label_348</zorder>
+   <zorder>label_347</zorder>
+   <zorder>label_346</zorder>
+   <zorder>label_345</zorder>
+   <zorder>label_344</zorder>
+   <zorder>label_343</zorder>
+   <zorder>label_342</zorder>
+   <zorder>label_341</zorder>
+   <zorder>label_340</zorder>
+   <zorder>label_339</zorder>
+   <zorder>label_338</zorder>
+   <zorder>label_337</zorder>
+   <zorder>label_336</zorder>
+   <zorder>label_270</zorder>
+   <zorder>label_266</zorder>
+   <zorder>label_264</zorder>
+   <zorder>label_263</zorder>
+   <zorder>label_259</zorder>
+   <zorder>label_257</zorder>
+   <zorder>label_254</zorder>
+   <zorder>label_253</zorder>
+   <zorder>label_252</zorder>
+   <zorder>label_250</zorder>
+   <zorder>label_243</zorder>
+   <zorder>label_242</zorder>
+   <zorder>label_241</zorder>
+   <zorder>label_237</zorder>
+   <zorder>label_235</zorder>
+   <zorder>label_234</zorder>
+   <zorder>label_233</zorder>
+   <zorder>label_231</zorder>
+   <zorder>label_230</zorder>
+   <zorder>label_229</zorder>
+   <zorder>label</zorder>
+   <zorder>label_2</zorder>
+   <zorder>label_3</zorder>
+   <zorder>label_4</zorder>
+   <zorder>label_5</zorder>
+   <zorder>label_6</zorder>
+   <zorder>label_7</zorder>
+   <zorder>label_8</zorder>
+   <zorder>label_9</zorder>
+   <zorder>label_10</zorder>
+   <zorder>label_11</zorder>
+   <zorder>label_12</zorder>
+   <zorder>label_13</zorder>
+   <zorder>label_14</zorder>
+   <zorder>label_15</zorder>
+   <zorder>label_16</zorder>
+   <zorder>label_17</zorder>
+   <zorder>label_18</zorder>
+   <zorder>label_19</zorder>
+   <zorder>label_21</zorder>
+   <zorder>label_22</zorder>
+   <zorder>label_23</zorder>
+   <zorder>label_25</zorder>
+   <zorder>label_26</zorder>
+   <zorder>label_27</zorder>
+   <zorder>label_28</zorder>
+   <zorder>label_29</zorder>
+   <zorder>label_31</zorder>
+   <zorder>label_32</zorder>
+   <zorder>label_33</zorder>
+   <zorder>label_34</zorder>
+   <zorder>label_35</zorder>
+   <zorder>label_36</zorder>
+   <zorder>label_37</zorder>
+   <zorder>label_38</zorder>
+   <zorder>label_39</zorder>
+   <zorder>label_40</zorder>
+   <zorder>label_41</zorder>
+   <zorder>label_42</zorder>
+   <zorder>label_43</zorder>
+   <zorder>label_44</zorder>
+   <zorder>label_45</zorder>
+   <zorder>label_46</zorder>
+   <zorder>label_47</zorder>
+   <zorder>label_48</zorder>
+   <zorder>label_49</zorder>
+   <zorder>label_50</zorder>
+   <zorder>label_51</zorder>
+   <zorder>label_52</zorder>
+   <zorder>label_53</zorder>
+   <zorder>label_54</zorder>
+   <zorder>label_55</zorder>
+   <zorder>label_56</zorder>
+   <zorder>label_57</zorder>
+   <zorder>label_58</zorder>
+   <zorder>label_59</zorder>
+   <zorder>label_60</zorder>
+   <zorder>label_61</zorder>
+   <zorder>label_62</zorder>
+   <zorder>label_63</zorder>
+   <zorder>label_65</zorder>
+   <zorder>label_66</zorder>
+   <zorder>label_67</zorder>
+   <zorder>label_68</zorder>
+   <zorder>label_69</zorder>
+   <zorder>label_70</zorder>
+   <zorder>label_71</zorder>
+   <zorder>label_72</zorder>
+   <zorder>label_73</zorder>
+   <zorder>label_74</zorder>
+   <zorder>label_75</zorder>
+   <zorder>label_76</zorder>
+   <zorder>label_77</zorder>
+   <zorder>label_79</zorder>
+   <zorder>label_80</zorder>
+   <zorder>label_81</zorder>
+   <zorder>label_82</zorder>
+   <zorder>label_83</zorder>
+   <zorder>label_84</zorder>
+   <zorder>label_85</zorder>
+   <zorder>label_86</zorder>
+   <zorder>label_87</zorder>
+   <zorder>label_88</zorder>
+   <zorder>label_89</zorder>
+   <zorder>label_90</zorder>
+   <zorder>label_91</zorder>
+   <zorder>label_92</zorder>
+   <zorder>label_93</zorder>
+   <zorder>label_94</zorder>
+   <zorder>label_95</zorder>
+   <zorder>label_96</zorder>
+   <zorder>label_97</zorder>
+   <zorder>label_98</zorder>
+   <zorder>label_99</zorder>
+   <zorder>label_100</zorder>
+   <zorder>label_101</zorder>
+   <zorder>label_102</zorder>
+   <zorder>label_103</zorder>
+   <zorder>label_104</zorder>
+   <zorder>label_105</zorder>
+   <zorder>label_106</zorder>
+   <zorder>label_107</zorder>
+   <zorder>label_108</zorder>
+   <zorder>label_109</zorder>
+   <zorder>label_110</zorder>
+   <zorder>label_111</zorder>
+   <zorder>label_112</zorder>
+   <zorder>label_113</zorder>
+   <zorder>label_114</zorder>
+   <zorder>label_115</zorder>
+   <zorder>label_116</zorder>
+   <zorder>label_117</zorder>
+   <zorder>label_118</zorder>
+   <zorder>label_119</zorder>
+   <zorder>label_120</zorder>
+   <zorder>label_121</zorder>
+   <zorder>label_122</zorder>
+   <zorder>label_123</zorder>
+   <zorder>label_124</zorder>
+   <zorder>label_125</zorder>
+   <zorder>label_126</zorder>
+   <zorder>label_127</zorder>
+   <zorder>label_128</zorder>
+   <zorder>label_129</zorder>
+   <zorder>label_130</zorder>
+   <zorder>label_131</zorder>
+   <zorder>label_132</zorder>
+   <zorder>label_133</zorder>
+   <zorder>label_134</zorder>
+   <zorder>label_136</zorder>
+   <zorder>label_137</zorder>
+   <zorder>label_138</zorder>
+   <zorder>label_139</zorder>
+   <zorder>label_140</zorder>
+   <zorder>label_141</zorder>
+   <zorder>label_142</zorder>
+   <zorder>label_143</zorder>
+   <zorder>label_144</zorder>
+   <zorder>label_145</zorder>
+   <zorder>label_146</zorder>
+   <zorder>label_147</zorder>
+   <zorder>label_148</zorder>
+   <zorder>label_149</zorder>
+   <zorder>label_150</zorder>
+   <zorder>label_151</zorder>
+   <zorder>label_152</zorder>
+   <zorder>label_153</zorder>
+   <zorder>label_154</zorder>
+   <zorder>label_155</zorder>
+   <zorder>label_156</zorder>
+   <zorder>label_157</zorder>
+   <zorder>label_158</zorder>
+   <zorder>label_159</zorder>
+   <zorder>label_160</zorder>
+   <zorder>label_161</zorder>
+   <zorder>label_163</zorder>
+   <zorder>label_164</zorder>
+   <zorder>label_165</zorder>
+   <zorder>label_166</zorder>
+   <zorder>label_167</zorder>
+   <zorder>label_168</zorder>
+   <zorder>label_169</zorder>
+   <zorder>label_170</zorder>
+   <zorder>label_171</zorder>
+   <zorder>label_172</zorder>
+   <zorder>label_173</zorder>
+   <zorder>label_174</zorder>
+   <zorder>label_175</zorder>
+   <zorder>label_176</zorder>
+   <zorder>label_177</zorder>
+   <zorder>label_178</zorder>
+   <zorder>label_179</zorder>
+   <zorder>label_180</zorder>
+   <zorder>label_181</zorder>
+   <zorder>label_182</zorder>
+   <zorder>label_183</zorder>
+   <zorder>label_184</zorder>
+   <zorder>label_185</zorder>
+   <zorder>label_186</zorder>
+   <zorder>label_187</zorder>
+   <zorder>label_188</zorder>
+   <zorder>label_189</zorder>
+   <zorder>label_190</zorder>
+   <zorder>label_191</zorder>
+   <zorder>label_193</zorder>
+   <zorder>label_194</zorder>
+   <zorder>label_195</zorder>
+   <zorder>label_196</zorder>
+   <zorder>label_197</zorder>
+   <zorder>label_198</zorder>
+   <zorder>label_199</zorder>
+   <zorder>label_200</zorder>
+   <zorder>label_201</zorder>
+   <zorder>label_202</zorder>
+   <zorder>label_203</zorder>
+   <zorder>label_204</zorder>
+   <zorder>label_205</zorder>
+   <zorder>label_206</zorder>
+   <zorder>label_207</zorder>
+   <zorder>label_208</zorder>
+   <zorder>label_209</zorder>
+   <zorder>label_210</zorder>
+   <zorder>label_211</zorder>
+   <zorder>label_212</zorder>
+   <zorder>label_213</zorder>
+   <zorder>label_214</zorder>
+   <zorder>label_215</zorder>
+   <zorder>label_216</zorder>
+   <zorder>label_217</zorder>
+   <zorder>label_218</zorder>
+   <zorder>label_219</zorder>
+   <zorder>label_220</zorder>
+   <zorder>label_221</zorder>
+   <zorder>label_222</zorder>
+   <zorder>label_223</zorder>
+   <zorder>label_224</zorder>
+   <zorder>label_225</zorder>
+   <zorder>label_226</zorder>
+   <zorder>label_228</zorder>
+   <zorder>label_232</zorder>
+   <zorder>label_236</zorder>
+   <zorder>label_238</zorder>
+   <zorder>label_239</zorder>
+   <zorder>label_240</zorder>
+   <zorder>label_244</zorder>
+   <zorder>label_245</zorder>
+   <zorder>label_246</zorder>
+   <zorder>label_247</zorder>
+   <zorder>label_248</zorder>
+   <zorder>label_249</zorder>
+   <zorder>label_251</zorder>
+   <zorder>label_255</zorder>
+   <zorder>label_256</zorder>
+   <zorder>label_258</zorder>
+   <zorder>label_260</zorder>
+   <zorder>label_261</zorder>
+   <zorder>label_262</zorder>
+   <zorder>label_265</zorder>
+   <zorder>label_267</zorder>
+   <zorder>label_268</zorder>
+   <zorder>label_269</zorder>
+   <zorder>label_271</zorder>
+   <zorder>label_272</zorder>
+   <zorder>label_273</zorder>
+   <zorder>label_274</zorder>
+   <zorder>label_275</zorder>
+   <zorder>label_276</zorder>
+   <zorder>label_279</zorder>
+   <zorder>label_282</zorder>
+   <zorder>label_283</zorder>
+   <zorder>label_284</zorder>
+   <zorder>label_285</zorder>
+   <zorder>label_286</zorder>
+   <zorder>label_287</zorder>
+   <zorder>label_288</zorder>
+   <zorder>label_289</zorder>
+   <zorder>label_290</zorder>
+   <zorder>label_291</zorder>
+   <zorder>label_292</zorder>
+   <zorder>label_293</zorder>
+   <zorder>label_294</zorder>
+   <zorder>label_295</zorder>
+   <zorder>label_296</zorder>
+   <zorder>label_297</zorder>
+   <zorder>label_298</zorder>
+   <zorder>label_299</zorder>
+   <zorder>label_300</zorder>
+   <zorder>label_277</zorder>
+   <zorder>label_278</zorder>
+   <zorder>label_280</zorder>
+   <zorder>label_281</zorder>
+   <zorder>label_301</zorder>
+   <zorder>label_302</zorder>
+   <zorder>label_303</zorder>
+   <zorder>label_305</zorder>
+   <zorder>label_306</zorder>
+   <zorder>label_307</zorder>
+   <zorder>label_308</zorder>
+   <zorder>label_309</zorder>
+   <zorder>label_310</zorder>
+   <zorder>label_311</zorder>
+   <zorder>label_312</zorder>
+   <zorder>label_313</zorder>
+   <zorder>label_314</zorder>
+   <zorder>label_315</zorder>
+   <zorder>label_316</zorder>
+   <zorder>label_317</zorder>
+   <zorder>label_318</zorder>
+   <zorder>label_319</zorder>
+   <zorder>label_320</zorder>
+   <zorder>label_321</zorder>
+   <zorder>label_322</zorder>
+   <zorder>label_323</zorder>
+   <zorder>label_324</zorder>
+   <zorder>label_325</zorder>
+   <zorder>label_326</zorder>
+   <zorder>label_327</zorder>
+   <zorder>label_328</zorder>
+   <zorder>label_329</zorder>
+   <zorder>label_330</zorder>
+   <zorder>label_331</zorder>
+   <zorder>label_332</zorder>
+   <zorder>label_333</zorder>
+   <zorder>label_334</zorder>
+   <zorder>label_335</zorder>
+   <zorder>road_39</zorder>
+   <zorder>road_29</zorder>
+   <zorder>road_28</zorder>
+   <zorder>road_43</zorder>
+   <zorder>road_13</zorder>
+   <zorder>road_48</zorder>
+   <zorder>road_20</zorder>
+   <zorder>road_46</zorder>
+   <zorder>road_15</zorder>
+   <zorder>road_25</zorder>
+   <zorder>road_41</zorder>
+   <zorder>road_37</zorder>
+   <zorder>road_14</zorder>
+   <zorder>road_27</zorder>
+   <zorder>road_33</zorder>
+   <zorder>road_45</zorder>
+   <zorder>road_49</zorder>
+   <zorder>road_35</zorder>
+   <zorder>road_26</zorder>
+   <zorder>road_51</zorder>
+   <zorder>road_52</zorder>
+   <zorder>road_38</zorder>
+   <zorder>road_30</zorder>
+   <zorder>road_22</zorder>
+   <zorder>road_23</zorder>
+   <zorder>road_42</zorder>
+   <zorder>road_34</zorder>
+   <zorder>road_47</zorder>
+   <zorder>road_50</zorder>
+   <zorder>road_24</zorder>
+   <zorder>road_21</zorder>
+   <zorder>road_36</zorder>
+   <zorder>road_40</zorder>
+   <zorder>road_16</zorder>
+   <zorder>road_17</zorder>
+   <zorder>road_32</zorder>
+   <zorder>road_31</zorder>
+   <zorder>road_19</zorder>
+   <zorder>road_18</zorder>
+   <zorder>label_304</zorder>
+   <zorder>label_364</zorder>
+   <zorder>background1_133</zorder>
+   <zorder>label_365</zorder>
+   <zorder>label_366</zorder>
+   <zorder>label_367</zorder>
+   <zorder>label_368</zorder>
+   <zorder>label_369</zorder>
+   <zorder>label_370</zorder>
+   <zorder>label_371</zorder>
+   <zorder>level1</zorder>
+   <zorder>life1</zorder>
+   <zorder>attack1</zorder>
+   <zorder>defense1</zorder>
+   <zorder>money1</zorder>
+   <zorder>exp1</zorder>
+   <zorder>bluekey1</zorder>
+   <zorder>redkey1</zorder>
+   <zorder>yellowkey1</zorder>
+   <zorder>label_192</zorder>
+   <zorder>character</zorder>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>
